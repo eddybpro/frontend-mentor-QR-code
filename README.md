@@ -2,4 +2,4 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Links
-solution URL: [live site]()
+solution URL: [live site](https://eddybpro.github.io/frontend-mentor-qr-code/)
